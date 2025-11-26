@@ -1,0 +1,29 @@
+﻿  OpenGL3DTemplate.cpp
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(109,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(135,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(135,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(142,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(142,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(485,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(486,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(487,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(488,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(489,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(490,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(543,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(546,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(548,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(572,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(573,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(573,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(574,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(588,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(588,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(589,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(589,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(543,23): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Uni\S7\DMET502\OpenGL3DTemplate\OpenGL3DTemplate.cpp(548,20): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+OpenGL3DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL3DTemplate.vcxproj -> D:\Uni\S7\DMET502\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
